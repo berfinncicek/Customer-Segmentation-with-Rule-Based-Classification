@@ -10,7 +10,7 @@ Bu proje, bir oyun şirketinin müşteri verileri üzerinde analizler yaparak ye
 ### Demografik Özelliklerin Frekansları
 
 - calculate_column_unique_frequencies fonksiyonu ile her demografik özelliğin benzersiz değerlerinin ve frekanslarının hesaplanması yapılır.
-- Örnek olarak: SEX sütununda kaç farklı cinsiyet var ve her bir cinsiyetten kaç tane gözlem var gibi.
+- Örnek olarak: Sex sütununda kaç farklı cinsiyet var ve her bir cinsiyetten kaç tane gözlem var gibi.
 
 ### Ülkelere Göre Toplam Satış ve Müşteri Sayısı
 
